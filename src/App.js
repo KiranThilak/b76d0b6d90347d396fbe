@@ -21,6 +21,8 @@ function App() {
         <th>Id</th>
         <th>TITLE</th>
         <th>BODY</th>
+        <th>BODY</th>
+
 
 
       </tr>
